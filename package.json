@@ -10,6 +10,7 @@
     "three": "^0.171.0"
   },
   "devDependencies": {
+    "@types/three": "^0.170.0",
     "live-server": "^1.2.0",
     "vite": "^6.0.3"
   }
